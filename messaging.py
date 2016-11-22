@@ -10,8 +10,10 @@ from sets import Set
 
 class Bot():
 
-      def send_message(self):
+      def __init__(self):
             self.botid = '292156429:AAEVUD_QXjCdJmFdIwehObuoptWh2IDVvnI'
             # roboses kuva http://imgur.com/UJ87Sky
-            self.roboses_address ='
+            
+      def send_message(self):
+            
       
